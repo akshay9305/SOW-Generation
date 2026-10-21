@@ -1,0 +1,11 @@
+openai
+streamlit
+python-docx
+reportlab
+PyMuPDF
+azure-search-documents
+azure-core
+sentence-transformers
+python-pptx
+pillow
+python-dotenv
